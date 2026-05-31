@@ -1,0 +1,14 @@
+# Don't commit binaries — they go to GitHub Releases (not git tree)
+releases/
+*.exe
+*.ccx
+*.zxp
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
