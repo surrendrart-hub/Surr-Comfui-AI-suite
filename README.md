@@ -177,6 +177,16 @@ This is how the 4 components stay in sync — switch project in ComfyUI, the das
 
 Free software — use, modify, redistribute under the terms of GPL v3. Any derivative work must remain under GPL v3 (copyleft).
 
+### 📨 Source code on request
+
+This repository ships **compiled binaries only**. Per **GPL v3 §6**, the corresponding source code is **available on request**.
+
+To receive the full source (dashboard + 3 plugins + build scripts), contact:
+
+📧 **surrendr.studio@gmail.com**
+
+Mention the version of the binary you have (e.g. `v2.0`) — you'll receive a private link to the source bundle within 7 days.
+
 Copyright © 2026 Surrendr Studio · https://www.surrendr.art
 
 ---
